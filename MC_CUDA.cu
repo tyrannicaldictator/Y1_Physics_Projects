@@ -1,5 +1,7 @@
-//Author: Minseo Kim (generated using GenAI, modified by Minseo Kim)
-//This code contains the data structures and functions for the Monte-Carlo simulations, 
+//Author: Minseo Kim 
+//This code contains the data structures and functions for Monte-Carlo simulations
+//to find the final positions of Uranus and Neptune after 150 years given an initial perturbation 
+//accounting for measurement uncertainties in initial positions of the planets,
 //as well as the functions for parallel computing. 
 
 #include <iostream>
